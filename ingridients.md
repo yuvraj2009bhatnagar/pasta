@@ -1,0 +1,1 @@
+milk,boiled pasta , vegetables,oil,salt,etc.
